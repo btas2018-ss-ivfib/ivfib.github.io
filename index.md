@@ -14,7 +14,7 @@ Papers are invited to report on following topics, but not limited to:
 
 ### Submission Guidelines
 
-Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system that will be announced from this page and will be double-blind peer reviewed by at least three reviewers. The submission guidelines can be found at: https://www.isi.edu/events/btas2018/paper_submission_guidelines
+Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system that will be announced from this page and will be double-blind peer reviewed by at least three reviewers. The submission guidelines can be found at: https://www.isi.edu/events/btas2018/paper_submission_guidelines (https://www.isi.edu/events/btas2018/paper_submission_guidelines)
 
 # Topics (not limited to):
 
