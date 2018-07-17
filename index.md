@@ -12,9 +12,9 @@ Papers are invited to report on following topics, but not limited to:
 *	detection and mitigation of adversarial attacks
 
 
-### Submission Guidelines
+# Submission Guidelines
 
-Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system that will be announced from this page and will be double-blind peer reviewed by at least three reviewers. The submission guidelines can be found at: https://www.isi.edu/events/btas2018/paper_submission_guidelines (https://www.isi.edu/events/btas2018/paper_submission_guidelines)
+Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system that will be announced from this page and will be double-blind peer reviewed by at least three reviewers. The submission guidelines can be found at: [https://www.isi.edu/events/btas2018/paper_submission_guidelines] (https://www.isi.edu/events/btas2018/paper_submission_guidelines)
 
 # Topics (not limited to):
 
@@ -40,7 +40,9 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 
 
 # Speaker
+```
 Keynote Speaker: To be confirmed 
+```
 
 ### Submission Site
 [Submission Site](https://cmt3.research.microsoft.com/)
@@ -52,6 +54,3 @@ Keynote Speaker: To be confirmed
 * Prof. Raymond Veldhuis (UTW, Netherlands) - [e-mail](r.n.j.veldhuis@utwente.nl)
 * Assoc. Prof. Kiran Raja (Univeristy of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
 * Assit. Prof. Chris Zeinstra (UTW, Netherlands) - [e-mail](c.g.zeinstra@utwente.nl)
-
-
-```
