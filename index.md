@@ -1,4 +1,4 @@
-#```markdown
+
 ## BTAS-2018 - Special Session On Image And Video Forensics In Biometrics
 
 The advancements in creating high-quality digitally manipulated content of the real world with detailed geometry, surface texture, and material in both static and dynamic environments has posed major problems in various domains. The introduction of highly realistic models such as Face2Face can not only fool the biometric systems but also have a large impact on the digital information channels. Another set of problems include the image manipulation attacks and video manipulation attacks which have proven to defeat the biometric systems.  The attack modes have made use of both traditional manipulation approaches and recent adversarial machine learning approaches (eg., GAN). Large-scale projects like DARPA MediFor SAVI and DARPA ODIN BATL have underlined the need to solutions to defend against these attack vectors.
@@ -31,11 +31,15 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 
 
 # Important Dates
+
 Workshop: 22nd October, 2018 (Half- day workshop)
-IMPORTANT DATES
+
 Full Paper Submission: Aug 05th, 2018
+
 Acceptance Notification: Aug 30th, 2018
+
 Camera-Ready Paper Due: Sep 15th 2018
+
 Workshop: 22nd October, 2018 (Half- day workshop)
 
 
@@ -47,13 +51,3 @@ Keynote Speaker: To be confirmed
 ### Submission Site
 [Link](https://cmt3.research.microsoft.com/)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/btas2018-ss-ivfib/ivfib.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
