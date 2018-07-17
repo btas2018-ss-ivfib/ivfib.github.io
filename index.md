@@ -6,10 +6,10 @@ The advancements in creating high-quality digitally manipulated content of the r
 In BTAS-2018, the special session on Image and Video Forensics in Biometrics is organized to evaluate the impact and mitigation measures of such adversarial attacks on biometrics systems. This half-day workshop in conjunction with BTAS-2018, calls for high-quality, previously unpublished works related to approaches and methodologies.
 
 Papers are invited to report on following topics, but not limited to:
-•	novel attack mechanisms
-•	approaches on evaluating the human perception in detecting such attacks
-•	algorithmic advancements in detecting attacks
-•	detection and mitigation of adversarial attacks
+*	novel attack mechanisms
+*	approaches on evaluating the human perception in detecting such attacks
+*	algorithmic advancements in detecting attacks
+*	detection and mitigation of adversarial attacks
 
 
 ### Submission Guidelines
@@ -18,36 +18,40 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 
 # Topics (not limited to):
 
-•	Image manipulation attacks in biometrics verification and identification (e.g., PAD).
-•	Video manipulation attacks.
-•	Forensic behavioral biometrics
-•	Soft Biometrics cues for authenticity verification of biometric data
-•	Multimedia forensics in biometrics
-•	Integrity verification and authentication of digital content in biometrics.
-•	Combination of multimodal decisions for authenticity verification in biometrics.
-•	Human perception and decisions in biometric data authenticity verification
-•	Ethical and societal implications of emerging manipulations
-•	Case studies based on the aforementioned topics
+*	Image manipulation attacks in biometrics verification and identification (e.g., PAD).
+*	Video manipulation attacks.
+*	Forensic behavioral biometrics
+*	Soft Biometrics cues for authenticity verification of biometric data
+*	Multimedia forensics in biometrics
+*	Integrity verification and authentication of digital content in biometrics.
+*	Combination of multimodal decisions for authenticity verification in biometrics.
+*	Human perception and decisions in biometric data authenticity verification
+*	Ethical and societal implications of emerging manipulations
+*	Case studies based on the aforementioned topics
 
 
 # Important Dates
 
-Workshop: 22nd October, 2018 (Half- day workshop)
-
-Full Paper Submission: Aug 05th, 2018
-
-Acceptance Notification: Aug 30th, 2018
-
-Camera-Ready Paper Due: Sep 15th 2018
-
-Workshop: 22nd October, 2018 (Half- day workshop)
+1. Workshop: 22nd October, 2018 (Half- day workshop)
+2. Full Paper Submission: Aug 05th, 2018
+3. Acceptance Notification: Aug 30th, 2018
+4. Camera-Ready Paper Due: Sep 15th 2018
+5. Workshop: 22nd October, 2018 (Half- day workshop)
 
 
 # Speaker
 Keynote Speaker: To be confirmed 
 
-**Bold** and _Italic_ and `Code` text
-
 ### Submission Site
-[Link](https://cmt3.research.microsoft.com/)
+[Submission Site](https://cmt3.research.microsoft.com/)
+
+[BTAS2018 Site](https://www.isi.edu/events/btas2018/home)
+
+# Oragnizing Committee
+
+* Prof. Raymond Veldhuis (UTW, Netherlands) - [e-mail](r.n.j.veldhuis@utwente.nl)
+* Assoc. Prof. Kiran Raja (Univeristy of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
+* Assit. Prof. Chris Zeinstra (UTW, Netherlands) - [e-mail](c.g.zeinstra@utwente.nl)
+
+
 ```
