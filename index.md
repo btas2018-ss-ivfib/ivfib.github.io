@@ -1,8 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/btas2018-ss-ivfib/ivfib.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The advancements in creating high-quality digitally manipulated content of the real world with detailed geometry, surface texture, and material in both static and dynamic environments has posed major problems in various domains. The introduction of highly realistic models such as Face2Face can not only fool the biometric systems but also have a large impact on the digital information channels. Another set of problems include the image manipulation attacks and video manipulation attacks which have proven to defeat the biometric systems.  The attack modes have made use of both traditional manipulation approaches and recent adversarial machine learning approaches (eg., GAN). Large-scale projects like DARPA MediFor SAVI and DARPA ODIN BATL have underlined the need to solutions to defend against these attack vectors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In BTAS-2018, the special session on Image and Video Forensics in Biometrics is organized to evaluate the impact and mitigation measures of such adversarial attacks on biometrics systems. This half-day workshop in conjunction with BTAS-2018, calls for high-quality, previously unpublished works related to approaches and methodologies.
+
+Papers are invited to report on following topics, but not limited to:
+•	novel attack mechanisms
+•	approaches on evaluating the human perception in detecting such attacks
+•	algorithmic advancements in detecting attacks
+•	detection and mitigation of adversarial attacks
+
 
 ### Markdown
 
