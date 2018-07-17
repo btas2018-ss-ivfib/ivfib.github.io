@@ -1,4 +1,4 @@
-```markdown
+#```markdown
 ## BTAS-2018 - Special Session On Image And Video Forensics In Biometrics
 
 The advancements in creating high-quality digitally manipulated content of the real world with detailed geometry, surface texture, and material in both static and dynamic environments has posed major problems in various domains. The introduction of highly realistic models such as Face2Face can not only fool the biometric systems but also have a large impact on the digital information channels. Another set of problems include the image manipulation attacks and video manipulation attacks which have proven to defeat the biometric systems.  The attack modes have made use of both traditional manipulation approaches and recent adversarial machine learning approaches (eg., GAN). Large-scale projects like DARPA MediFor SAVI and DARPA ODIN BATL have underlined the need to solutions to defend against these attack vectors.
