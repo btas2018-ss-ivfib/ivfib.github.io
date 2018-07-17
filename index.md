@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BTAS-2018 - Special Session On Image And Video Forensics In Biometrics
 
 The advancements in creating high-quality digitally manipulated content of the real world with detailed geometry, surface texture, and material in both static and dynamic environments has posed major problems in various domains. The introduction of highly realistic models such as Face2Face can not only fool the biometric systems but also have a large impact on the digital information channels. Another set of problems include the image manipulation attacks and video manipulation attacks which have proven to defeat the biometric systems.  The attack modes have made use of both traditional manipulation approaches and recent adversarial machine learning approaches (eg., GAN). Large-scale projects like DARPA MediFor SAVI and DARPA ODIN BATL have underlined the need to solutions to defend against these attack vectors.
 
@@ -13,14 +13,36 @@ Papers are invited to report on following topics, but not limited to:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system that will be announced from this page and will be double-blind peer reviewed by at least three reviewers. The submission guidelines can be found at: https://www.isi.edu/events/btas2018/paper_submission_guidelines
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Topics (not limited to):
+
+•	Image manipulation attacks in biometrics verification and identification (e.g., PAD).
+•	Video manipulation attacks.
+•	Forensic behavioral biometrics
+•	Soft Biometrics cues for authenticity verification of biometric data
+•	Multimedia forensics in biometrics
+•	Integrity verification and authentication of digital content in biometrics.
+•	Combination of multimodal decisions for authenticity verification in biometrics.
+•	Human perception and decisions in biometric data authenticity verification
+•	Ethical and societal implications of emerging manipulations
+•	Case studies based on the aforementioned topics
+
+
+# Important Dates
+Workshop: 22nd October, 2018 (Half- day workshop)
+IMPORTANT DATES
+Full Paper Submission: Aug 05th, 2018
+Acceptance Notification: Aug 30th, 2018
+Camera-Ready Paper Due: Sep 15th 2018
+Workshop: 22nd October, 2018 (Half- day workshop)
+
+
+# Speaker
+Keynote Speaker: To be confirmed 
 
 - Bulleted
 - List
